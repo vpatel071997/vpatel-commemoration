@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vpatel-commemoration/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vpatel-commemoration/static/js/main.7639d51f.chunk.js",
+    "main.js.map": "/vpatel-commemoration/static/js/main.7639d51f.chunk.js.map",
+    "runtime-main.js": "/vpatel-commemoration/static/js/runtime-main.f44e4e6e.js",
+    "runtime-main.js.map": "/vpatel-commemoration/static/js/runtime-main.f44e4e6e.js.map",
+    "static/js/2.a4203bb6.chunk.js": "/vpatel-commemoration/static/js/2.a4203bb6.chunk.js",
+    "static/js/2.a4203bb6.chunk.js.map": "/vpatel-commemoration/static/js/2.a4203bb6.chunk.js.map",
+    "index.html": "/vpatel-commemoration/index.html",
+    "precache-manifest.939c49584c10ed17965a3cc300c9916c.js": "/vpatel-commemoration/precache-manifest.939c49584c10ed17965a3cc300c9916c.js",
+    "service-worker.js": "/vpatel-commemoration/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vpatel-commemoration/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a4203bb6.chunk.js.LICENSE.txt": "/vpatel-commemoration/static/js/2.a4203bb6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vpatel-commemoration/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f44e4e6e.js",
+    "static/js/2.a4203bb6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7639d51f.chunk.js"
+  ]
+}
