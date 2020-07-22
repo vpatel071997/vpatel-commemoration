@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vpatel-commemoration/precache-manifest.939c49584c10ed17965a3cc300c9916c.js"
+  "/vpatel-commemoration/precache-manifest.8585039f99012a661c4de2a73667cc2b.js"
 );
 
 self.addEventListener('message', (event) => {
